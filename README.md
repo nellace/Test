@@ -1,6 +1,3 @@
 # Test
 git
 
-a
-
-b
